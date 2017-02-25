@@ -1,0 +1,8 @@
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\obj\Debug\Airport.csprojResolveAssemblyReference.cache
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\bin\Debug\Airport.exe
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\bin\Debug\Airport.pdb
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\obj\Debug\Airport.exe
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\obj\Debug\Airport.pdb
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\bin\Debug\Zlib.Portable.dll
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\bin\Debug\Zlib.Portable.xml
+D:\Users\Admin\Documents\Visual Studio 2015\Projects\Airport\Airport\bin\Debug\System.Device.Portable.dll
